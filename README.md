@@ -11,3 +11,6 @@ y podrá guardarla en la pestaña de favoritos añadiendo una puntación a la pe
 ## App desarrollada con los siguientes lenguajes:
 
 JavaScript, CSS, HTML y React.
+
+https://appfavoritemovies.netlify.app/
+
