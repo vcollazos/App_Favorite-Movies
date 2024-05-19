@@ -12,5 +12,5 @@ y podrá guardarla en la pestaña de favoritos añadiendo una puntación a la pe
 
 JavaScript, CSS, HTML y React.
 
-https://appfavoritemovies.netlify.app/
+
 
